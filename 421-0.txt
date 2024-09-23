@@ -21,7 +21,9 @@
 
 
 
+
 PREFACE TO THE BIOGRAPHICAL EDITION
+
 
 While my husband and Mr. Henley were engaged in writing plays in
 Bournemouth they made a number of titles, hoping to use them in the
@@ -186,10 +188,13 @@ R.L.S. SKERRYVORE, BOURNEMOUTH.
 
 
 
+
 CONTENTS
 
      CHAPTER
 
+                PREFACE TO THE BIOGRAPHICAL EDITION
+                DEDICATION
      I          I SET OFF UPON MY JOURNEY TO THE HOUSE OF SHAWS
      II         I COME TO MY JOURNEY’S END
      III        I MAKE ACQUAINTANCE OF MY UNCLE
@@ -222,9 +227,11 @@ CONTENTS
 
 
 
+
 CHAPTER I
 
 I SET OFF UPON MY JOURNEY TO THE HOUSE OF SHAWS
+
 
 I will begin the story of my adventures with a certain morning early in
 the month of June, the year of grace 1751, when I took the key for the
@@ -262,7 +269,7 @@ letter into his hand, and start him off to the house of Shaws, not far
 from Cramond. That is the place I came from,’ he said, ‘and it’s where
 it befits that my boy should return. He is a steady lad,’ your father
 said, ‘and a canny goer; and I doubt not he will come safe, and be well
-lived where he goes.’”
+liked where he goes.’”
 
 “The house of Shaws!” I cried. “What had my poor father to do with the
 house of Shaws?”
@@ -396,6 +403,7 @@ kirkyard where my father and my mother lay.
 CHAPTER II
 
 I COME TO MY JOURNEY’S END
+
 
 On the forenoon of the second day, coming to the top of a hill, I saw
 all the country fall away before me down to the sea; and in the midst
@@ -608,6 +616,7 @@ CHAPTER III
 
 I MAKE ACQUAINTANCE OF MY UNCLE
 
+
 Presently there came a great rattling of chains and bolts, and the
 door was cautiously opened and shut to again behind me as soon as I had
 passed.
@@ -640,9 +649,11 @@ board wages.
 I said I feared it was his own supper.
 
 “O,” said he, “I can do fine wanting it. I’ll take the ale, though, for
-it slockens (moistens) my cough.” He drank the cup about half out, still
-keeping an eye upon me as he drank; and then suddenly held out his hand.
-“Let’s see the letter,” said he.
+it slockens[1] my cough.” He drank the cup about half out, still
+keeping an eye upon me as he drank; and then suddenly held out his
+hand. “Let’s see the letter,” said he.
+
+    [1] moistens
 
 I told him the letter was for Mr. Balfour; not for him.
 
@@ -737,10 +748,10 @@ and begged a light to go to bed with.
 
 “Hoot-toot!” said Uncle Ebenezer, “there’s a fine moon.”
 
-“Neither moon nor star, sir, and pit-mirk,” * said I. “I cannae see the
-bed.”
+“Neither moon nor star, sir, and pit-mirk,”[2] said I. “I cannae see
+the bed.”
 
-     * Dark as the pit.
+     [2] Dark as the pit.
 
 “Hoot-toot, hoot-toot!” said he. “Lights in a house is a thing I dinnae
 agree with. I’m unco feared of fires. Good-night to ye, Davie, my man.”
@@ -838,11 +849,11 @@ building as a sinful waste; and this put it in my head to give him
 Jennet Clouston’s message.
 
 “The limmer!” he cried. “Twelve hunner and fifteen--that’s every day
-since I had the limmer rowpit!* Dod, David, I’ll have her roasted on red
+since I had the limmer rowpit![3] Dod, David, I’ll have her roasted on red
 peats before I’m by with it! A witch--a proclaimed witch! I’ll aff and
 see the session clerk.”
 
-     * Sold up.
+     [3] Sold up.
 
 And with that he opened a chest, and got out a very old and
 well-preserved blue coat and waistcoat, and a good enough beaver hat,
@@ -897,6 +908,7 @@ through no fault of mine.”
 CHAPTER IV
 
 I RUN A GREAT DANGER IN THE HOUSE OF SHAWS
+
 
 For a day that was begun so ill, the day passed fairly well. We had the
 porridge cold again at noon, and hot porridge at night; porridge and
@@ -1194,6 +1206,7 @@ CHAPTER V
 
 I GO TO THE QUEEN’S FERRY
 
+
 Much rain fell in the night; and the next morning there blew a bitter
 wintry wind out of the north-west, driving scattered clouds. For all
 that, and before the sun began to peep or the last of the stars had
@@ -1284,22 +1297,26 @@ Here it is, lying before me as I write:
 “Sir,--I lie here with my hawser up and down, and send my cabin-boy to
 informe. If you have any further commands for over-seas, to-day will be
 the last occasion, as the wind will serve us well out of the firth.
-I will not seek to deny that I have had crosses with your doer,* Mr.
+I will not seek to deny that I have had crosses with your doer,[4] Mr.
 Rankeillor; of which, if not speedily redd up, you may looke to see some
 losses follow. I have drawn a bill upon you, as per margin, and am, sir,
-     your most obedt., humble servant, “ELIAS HOSEASON.” * Agent.
+     your most obedt., humble servant,
+
+                                       “ELIAS HOSEASON.”
+
+[4] Agent.
 
 “You see, Davie,” resumed my uncle, as soon as he saw that I had done,
 “I have a venture with this man Hoseason, the captain of a trading brig,
-the Covenant, of Dysart. Now, if you and me was to walk over with
+the _Covenant_, of Dysart. Now, if you and me was to walk over with
 yon lad, I could see the captain at the Hawes, or maybe on board the
-Covenant if there was papers to be signed; and so far from a loss of
+_Covenant_ if there was papers to be signed; and so far from a loss of
 time, we can jog on to the lawyer, Mr. Rankeillor’s. After a’ that’s
-come and gone, ye would be swier* to believe me upon my naked word; but
+come and gone, ye would be swier[5] to believe me upon my naked word; but
 ye’ll believe Rankeillor. He’s factor to half the gentry in these parts;
 an auld man, forby: highly respeckit, and he kenned your father.”
 
-     * Unwilling.
+     [5] Unwilling.
 
 I stood awhile and thought. I was going to some place of shipping, which
 was doubtless populous, and where my uncle durst attempt no violence,
@@ -1361,8 +1378,8 @@ ugly oath.
 
 I have never felt such pity for any one in this wide world as I felt for
 that half-witted creature, and it began to come over me that the brig
-Covenant (for all her pious name) was little better than a hell upon the
-seas.
+_Covenant_ (for all her pious name) was little better than a hell upon
+the seas.
 
 “Have you no friends?” said I.
 
@@ -1406,12 +1423,12 @@ and backed against a pretty garden of holly-trees and hawthorns, I could
 see the building which they called the Hawes Inn.
 
 The town of Queensferry lies farther west, and the neighbourhood of the
-inn looked pretty lonely at that time of day, for the boat had just gone
-north with passengers. A skiff, however, lay beside the pier, with some
-seamen sleeping on the thwarts; this, as Ransome told me, was the brig’s
-boat waiting for the captain; and about half a mile off, and all
-alone in the anchorage, he showed me the Covenant herself. There was a
-sea-going bustle on board; yards were swinging into place; and as the
+inn looked pretty lonely at that time of day, for the boat had just
+gone north with passengers. A skiff, however, lay beside the pier, with
+some seamen sleeping on the thwarts; this, as Ransome told me, was the
+brig’s boat waiting for the captain; and about half a mile off, and all
+alone in the anchorage, he showed me the _Covenant_ herself. There was
+a sea-going bustle on board; yards were swinging into place; and as the
 wind blew from that quarter, I could hear the song of the sailors as
 they pulled upon the ropes. After all I had listened to upon the way, I
 looked at that ship with an extreme abhorrence; and from the bottom of
@@ -1420,7 +1437,7 @@ my heart I pitied all poor souls that were condemned to sail in her.
 We had all three pulled up on the brow of the hill; and now I marched
 across the road and addressed my uncle. “I think it right to tell
 you, sir,” says I, “there’s nothing that will bring me on board that
-Covenant.”
+_Covenant_.”
 
 He seemed to waken from a dream. “Eh?” he said. “What’s that?”
 
@@ -1428,7 +1445,7 @@ I told him over again.
 
 “Well, well,” he said, “we’ll have to please ye, I suppose. But what
 are we standing here for? It’s perishing cold; and if I’m no mistaken,
-they’re busking the Covenant for sea.”
+they’re busking the _Covenant_ for sea.”
 
 
 
@@ -1436,6 +1453,7 @@ they’re busking the Covenant for sea.”
 CHAPTER VI
 
 WHAT BEFELL AT THE QUEEN’S FERRY
+
 
 As soon as we came to the inn, Ransome led us up the stair to a small
 room, with a bed in it, and heated like an oven by a great fire of coal.
@@ -1476,9 +1494,9 @@ wavelets, not much bigger than I had seen upon a lake, beat upon the
 shore. But the weeds were new to me--some green, some brown and long,
 and some with little bladders that crackled between my fingers. Even so
 far up the firth, the smell of the sea-water was exceedingly salt and
-stirring; the Covenant, besides, was beginning to shake out her sails,
-which hung upon the yards in clusters; and the spirit of all that I
-beheld put me in thoughts of far voyages and foreign places.
+stirring; the _Covenant_, besides, was beginning to shake out her
+sails, which hung upon the yards in clusters; and the spirit of all
+that I beheld put me in thoughts of far voyages and foreign places.
 
 I looked, too, at the seamen with the skiff--big brown fellows, some in
 shirts, some with jackets, some with coloured handkerchiefs about their
@@ -1512,22 +1530,22 @@ way, that I would be no relative.
 
 I told him no, none.
 
-“I thought not,” said he, “and yet ye have a kind of gliff* of Mr.
+“I thought not,” said he, “and yet ye have a kind of gliff[6] of Mr.
 Alexander.”
 
-     * Look.
+     [6] Look.
 
 I said it seemed that Ebenezer was ill-seen in the country.
 
 “Nae doubt,” said the landlord. “He’s a wicked auld man, and there’s
-many would like to see him girning in the tow*. Jennet Clouston and mony
+many would like to see him girning in the tow.[7] Jennet Clouston and mony
 mair that he has harried out of house and hame. And yet he was ance
-a fine young fellow, too. But that was before the sough** gaed abroad
+a fine young fellow, too. But that was before the sough[8] gaed abroad
 about Mr. Alexander, that was like the death of him.”
 
-     * Rope.
+     [7] Rope.
 
-     ** Report.
+     [8] Report.
 
 “And what was it?” I asked.
 
@@ -1585,7 +1603,7 @@ had an appointment with a lawyer.
 “Ay, ay,” said he, “he passed me word of that. But, ye see, the boat’ll
 set ye ashore at the town pier, and that’s but a penny stonecast from
 Rankeillor’s house.” And here he suddenly leaned down and whispered in
-my ear: “Take care of the old tod;* he means mischief. Come aboard till
+my ear: “Take care of the old tod;[9] he means mischief. Come aboard till
 I can get a word with ye.” And then, passing his arm through mine, he
 continued aloud, as he set off towards his boat: “But, come, what can I
 bring ye from the Carolinas? Any friend of Mr. Balfour’s can command.
@@ -1594,7 +1612,7 @@ pipe? the mocking-bird that mews for all the world like a cat? the
 cardinal bird that is as red as blood?--take your pick and say your
 pleasure.”
 
-     * Fox.
+     [9] Fox.
 
 By this time we were at the boat-side, and he was handing me in. I did
 not dream of hanging back; I thought (the poor fool!) that I had found
@@ -1637,7 +1655,8 @@ great flash of fire, and fell senseless.
 
 CHAPTER VII
 
-I GO TO SEA IN THE BRIG “COVENANT” OF DYSART
+I GO TO SEA IN THE BRIG _COVENANT_ OF DYSART
+
 
 I came to myself in darkness, in great pain, bound hand and foot, and
 deafened by many unfamiliar noises. There sounded in my ears a roaring
@@ -1667,7 +1686,7 @@ I here set down to show that even the worst man may have his kindlier
 side. We were then passing, it appeared, within some miles of Dysart,
 where the brig was built, and where old Mrs. Hoseason, the captain’s
 mother, had come some years before to live; and whether outward or
-inward bound, the Covenant was never suffered to go by that place by
+inward bound, the _Covenant_ was never suffered to go by that place by
 day, without a gun fired and colours shown.
 
 I had no measure of time; day and night were alike in that ill-smelling
@@ -1686,11 +1705,11 @@ stood looking down at me.
 I answered by a sob; and my visitor then felt my pulse and temples, and
 set himself to wash and dress the wound upon my scalp.
 
-“Ay,” said he, “a sore dunt*. What, man? Cheer up! The world’s no done;
+“Ay,” said he, “a sore dunt.[10] What, man? Cheer up! The world’s no done;
 you’ve made a bad start of it but you’ll make a better. Have you had any
 meat?”
 
-     * Stroke.
+     [10] Stroke.
 
 I said I could not look at it: and thereupon he gave me some brandy and
 water in a tin pannikin, and left me once more to myself.
@@ -1780,10 +1799,10 @@ from time to time (as the ship rolled) a dusty beam of sunlight shone
 in, and dazzled and delighted me. I had no sooner moved, moreover, than
 one of the men brought me a drink of something healing which Mr. Riach
 had prepared, and bade me lie still and I should soon be well again.
-There were no bones broken, he explained: “A clour* on the head was
+There were no bones broken, he explained: “A clour[11] on the head was
 naething. Man,” said he, “it was me that gave it ye!”
 
-     * Blow.
+     [11] Blow.
 
 Here I lay for the space of many days a close prisoner, and not only got
 my health again, but came to know my companions. They were a rough lot
@@ -1864,7 +1883,7 @@ children) and bid him stop that nonsense, and think what he was doing.
 As for me, I felt ashamed to look at him, and the poor child still comes
 about me in my dreams.
 
-All this time, you should know, the Covenant was meeting continual
+All this time, you should know, the _Covenant_ was meeting continual
 head-winds and tumbling up and down against head-seas, so that the
 scuttle was almost constantly shut, and the forecastle lighted only by a
 swinging lantern on a beam. There was constant labour for all hands; the
@@ -1905,6 +1924,7 @@ of the forecastle.
 CHAPTER VIII
 
 THE ROUND-HOUSE
+
 
 One night, about eleven o’clock, a man of Mr. Riach’s watch (which was
 on deck) came below for his jacket; and instantly there began to go
@@ -2092,11 +2112,11 @@ from thinking.
 
 CHAPTER IX
 
-
 THE MAN WITH THE BELT OF GOLD
 
+
 More than a week went by, in which the ill-luck that had hitherto
-pursued the Covenant upon this voyage grew yet more strongly marked.
+pursued the _Covenant_ upon this voyage grew yet more strongly marked.
 Some days she made a little way; others, she was driven actually back.
 At last we were beaten so far to the south that we tossed and tacked to
 and fro the whole of the ninth day, within sight of Cape Wrath and the
@@ -2241,11 +2261,11 @@ it’ll come to you?”
 added, drily. “But I think, if I was to try, that I could hold my tongue
 about it.”
 
-“Ah, but I’ll begowk* ye there!” cried the gentleman. “Play me false,
+“Ah, but I’ll begowk[12] ye there!” cried the gentleman. “Play me false,
 and I’ll play you cunning. If a hand is laid upon me, they shall ken
 what money it is.”
 
-     *Befool.
+     [12] Befool.
 
 “Well,” returned the captain, “what must be must. Sixty guineas, and
 done. Here’s my hand upon it.”
@@ -2272,9 +2292,9 @@ interest.
 “And so you’re a Jacobite?” said I, as I set meat before him.
 
 “Ay,” said he, beginning to eat. “And you, by your long face, should be
-a Whig?” *
+a Whig?”[13]
 
-     * Whig or Whigamore was the cant name for those who were
+     [13] Whig or Whigamore was the cant name for those who were
      loyal to King George.
 
 “Betwixt and between,” said I, not to annoy him; for indeed I was as
@@ -2411,10 +2431,10 @@ me down to the table with a powder-horn, a bag of bullets and all the
 pistols, which he bade me charge.
 
 “And that will be better work, let me tell you,” said he, “for a
-gentleman of decent birth, than scraping plates and raxing* drams to a
+gentleman of decent birth, than scraping plates and raxing[14] drams to a
 wheen tarry sailors.”
 
-     *Reaching.
+     [14] Reaching.
 
 Thereupon he stood up in the midst with his face to the door, and
 drawing his great sword, made trial of the room he had to wield it in.
@@ -2471,6 +2491,7 @@ is at the one, my back is to the other.”
 CHAPTER X
 
 THE SIEGE OF THE ROUND-HOUSE
+
 
 But now our time of truce was come to an end. Those on deck had waited
 for my coming till they grew impatient; and scarce had Alan spoken, when
@@ -2565,9 +2586,9 @@ and keeping watch with both eye and ear.
 Our enemies were disputing not far off upon the deck, and that so loudly
 that I could hear a word or two above the washing of the seas.
 
-“It was Shuan bauchled* it,” I heard one say.
+“It was Shuan bauchled[15] it,” I heard one say.
 
-     * Bungled.
+     [15] Bungled.
 
 And another answered him with a “Wheesht, man! He’s paid the piper.”
 
@@ -2650,7 +2671,7 @@ a bonny fighter?”
 Thereupon he turned to the four enemies, passed his sword clean through
 each of them, and tumbled them out of doors one after the other. As he
 did so, he kept humming and singing and whistling to himself, like a man
-trying to recall an air; only what HE was trying was to make one. All
+trying to recall an air; only what _he_ was trying was to make one. All
 the while, the flush was in his face, and his eyes were as bright as a
 five-year-old child’s with a new toy. And presently he sat down upon the
 table, sword in hand; the air that he was making all the time began to
@@ -2663,19 +2684,25 @@ at least in the king’s English.
 He sang it often afterwards, and the thing became popular; so that I
 have heard it and had it explained to me, many’s the time.
 
+    “This is the song of the sword of Alan;
+    The smith made it,
+    The fire set it;
+    Now it shines in the hand of Alan Breck.
 
-“This is the song of the sword of Alan; The smith made it, The fire set
-it; Now it shines in the hand of Alan Breck.
+    “Their eyes were many and bright,
+    Swift were they to behold,
+    Many the hands they guided:
+    The sword was alone.
 
-“Their eyes were many and bright, Swift were they to behold, Many the
-hands they guided: The sword was alone.
+    “The dun deer troop over the hill,
+    They are many, the hill is one;
+    The dun deer vanish,
+    The hill remains.
 
-“The dun deer troop over the hill, They are many, the hill is one; The
-dun deer vanish, The hill remains.
-
-“Come to me from the hills of heather, Come from the isles of the sea. O
-far-beholding eagles, Here is your meat.”
-
+    “Come to me from the hills of heather,
+    Come from the isles of the sea.
+    O far-beholding eagles,
+    Here is your meat.”
 
 Now this song which he made (both words and music) in the hour of our
 victory, is something less than just to me, who stood beside him in
@@ -2729,6 +2756,7 @@ a little more astern, the strange isle of Rum.
 CHAPTER XI
 
 THE CAPTAIN KNUCKLES UNDER
+
 
 Alan and I sat down to breakfast about six of the clock. The floor was
 covered with broken glass and in a horrid mess of blood, which took away
@@ -2845,10 +2873,10 @@ or Ardgour, or in Morven, or Arisaig, or Morar; or, in brief, where ye
 please, within thirty miles of my own country; except in a country of
 the Campbells. That’s a broad target. If ye miss that, ye must be as
 feckless at the sailoring as I have found ye at the fighting. Why, my
-poor country people in their bit cobles* pass from island to island in
+poor country people in their bit cobles[16] pass from island to island in
 all weathers, ay, and by night too, for the matter of that.”
 
-     *Coble: a small boat used in fishing.
+     [16] Coble: a small boat used in fishing.
 
 “A coble’s not a ship, sir,” said the captain. “It has nae draught of
 water.”
@@ -2909,6 +2937,7 @@ drink.
 CHAPTER XII
 
 I HEAR OF THE “RED FOX”
+
 
 Before we had done cleaning out the round-house, a breeze sprang up from
 a little to the east of north. This blew off the rain and brought out
@@ -3206,7 +3235,7 @@ and whistled me the air.
 
 “And then, besides,” he continued, “it’s no sae bad now as it was in
 forty-six. The Hielands are what they call pacified. Small wonder, with
-never a gun or a sword left from Cantyre to Cape Wrath, but what tenty*
+never a gun or a sword left from Cantyre to Cape Wrath, but what tenty[17]
 folk have hidden in their thatch! But what I would like to ken, David,
 is just how long? Not long, ye would think, with men like Ardshiel in
 exile and men like the Red Fox sitting birling the wine and oppressing
@@ -3215,7 +3244,7 @@ and what they will not. Or why would Red Colin be riding his horse all
 over my poor country of Appin, and never a pretty lad to put a bullet in
 him?”
 
-     * Careful.
+     [17] Careful.
 
 And with this Alan fell into a muse, and for a long time sate very sad
 and silent.
@@ -3240,6 +3269,7 @@ CHAPTER XIII
 
 THE LOSS OF THE BRIG
 
+
 It was already late at night, and as dark as it ever would be at that
 season of the year (and that is to say, it was still pretty bright),
 when Hoseason clapped his head into the round-house door.
@@ -3261,7 +3291,7 @@ daylight lingered; and the moon, which was nearly full, shone brightly.
 The brig was close hauled, so as to round the southwest corner of the
 Island of Mull, the hills of which (and Ben More above them all, with a
 wisp of mist upon the top of it) lay full upon the lar-board bow. Though
-it was no good point of sailing for the Covenant, she tore through
+it was no good point of sailing for the _Covenant_, she tore through
 the seas at a great rate, pitching and straining, and pursued by the
 westerly swell.
 
@@ -3357,7 +3387,7 @@ water ahead.
 “Ye were right,” said Hoseason to Alan. “Ye have saved the brig, sir.
 I’ll mind that when we come to clear accounts.” And I believe he not
 only meant what he said, but would have done it; so high a place did the
-Covenant hold in his affections.
+_Covenant_ hold in his affections.
 
 But this is matter only for conjecture, things having gone otherwise
 than he forecast.
@@ -3468,6 +3498,7 @@ have been often, though never with more cause.
 CHAPTER XIV
 
 THE ISLET
+
 
 With my stepping ashore I began the most unhappy part of my adventures.
 It was half-past twelve in the morning, and though the wind was broken
@@ -3790,6 +3821,7 @@ CHAPTER XV
 
 THE LAD WITH THE SILVER BUTTON: THROUGH THE ISLE OF MULL
 
+
 The Ross of Mull, which I had now got upon, was rugged and trackless,
 like the isle I had just left; being all bog, and brier, and big stone.
 There may be roads for them that know that country well; but for my part
@@ -4089,6 +4121,7 @@ CHAPTER XVI
 
 THE LAD WITH THE SILVER BUTTON: ACROSS MORVEN
 
+
 There is a regular ferry from Torosay to Kinlochaline on the mainland.
 Both shores of the Sound are in the country of the strong clan of the
 Macleans, and the people that passed the ferry with me were almost all
@@ -4366,6 +4399,7 @@ CHAPTER XVII
 
 THE DEATH OF THE RED FOX
 
+
 The next day Mr. Henderland found for me a man who had a boat of his own
 and was to cross the Linnhe Loch that afternoon into Appin, fishing. Him
 he prevailed on to take me, for he was one of his flock; and in this way
@@ -4552,9 +4586,9 @@ a clear sky, that I was all amazed and helpless.
 The soldiers began to spread, some of them to run, and others to put up
 their pieces and cover me; and still I stood.
 
-“Jock* in here among the trees,” said a voice close by.
+“Jouk[18] in here among the trees,” said a voice close by.
 
-     * Duck.
+     [18] Duck.
 
 Indeed, I scarce knew what I was doing, but I obeyed; and as I did so, I
 heard the firelocks bang and the balls whistle in the birches.
@@ -4593,6 +4627,7 @@ CHAPTER XVIII
 
 I TALK WITH ALAN IN THE WOOD OF LETTERMORE
 
+
 Alan was the first to come round. He rose, went to the border of the
 wood, peered out a little, and then returned and sat down.
 
@@ -4612,11 +4647,11 @@ isle, than in that warm wood beside a murderer.
 “Are ye still wearied?” he asked again.
 
 “No,” said I, still with my face in the bracken; “no, I am not wearied
-now, and I can speak. You and me must twine,” * I said. “I liked you very
+now, and I can speak. You and me must twine,”[19] I said. “I liked you very
 well, Alan, but your ways are not mine, and they’re not God’s: and the
 short and the long of it is just that we must twine.”
 
-     * Part.
+     [19] Part.
 
 “I will hardly twine from ye, David, without some kind of reason for
 the same,” said Alan, mighty gravely. “If ye ken anything against
@@ -4640,7 +4675,7 @@ through to Ireland. The name of this rock is called the Skerryvore, and
 it’s not far from where we suffered ship-wreck. Well, it seems the man
 cried so sore, if he could just see his little bairn before he died!
 that at last the king of the Good People took peety upon him, and sent
-one flying that brought back the bairn in a poke* and laid it down
+one flying that brought back the bairn in a poke[20] and laid it down
 beside the man where he lay sleeping. So when the man woke, there was a
 poke beside him and something into the inside of it that moved. Well, it
 seems he was one of these gentry that think aye the worst of things; and
@@ -4648,7 +4683,7 @@ for greater security, he stuck his dirk throughout that poke before he
 opened it, and there was his bairn dead. I am thinking to myself, Mr.
 Balfour, that you and the man are very much alike.”
 
-     * Bag.
+     [20] Bag.
 
 “Do you mean you had no hand in it?” cried I, sitting up.
 
@@ -4842,7 +4877,7 @@ They were not two hundred yards away, when there came a third great sea;
 and at that the brig lifted clean over the reef; her canvas filled for
 a moment, and she seemed to sail in chase of them, but settling all the
 while; and presently she drew down and down, as if a hand was drawing
-her; and the sea closed over the Covenant of Dysart.
+her; and the sea closed over the _Covenant_ of Dysart.
 
 Never a word they spoke as they pulled ashore, being stunned with the
 horror of that screaming; but they had scarce set foot upon the beach
@@ -4906,6 +4941,7 @@ CHAPTER XIX
 
 THE HOUSE OF FEAR
 
+
 Night fell as we were walking, and the clouds, which had broken up in
 the afternoon, settled in and thickened, so that it fell, for the
 season of the year, extremely dark. The way we went was over rough
@@ -4950,10 +4986,10 @@ Roy is dead, and be thankful for that!”
 
 “Ay” said James, “and by my troth, I wish he was alive again! It’s all
 very fine to blow and boast beforehand; but now it’s done, Alan; and
-who’s to bear the wyte* of it? The accident fell out in Appin--mind ye
+who’s to bear the wyte[21] of it? The accident fell out in Appin--mind ye
 that, Alan; it’s Appin that must pay; and I am a man that has a family.”
 
-     * Blame.
+     [21] Blame.
 
 While this was going on I looked about me at the servants. Some were on
 ladders, digging in the thatch of the house or the farm buildings,
@@ -5006,13 +5042,13 @@ A little after he observed his son burning a paper which he thought
 should have been kept; and at that his excitement burst out so that it
 was painful to witness. He struck the lad repeatedly.
 
-“Are you gone gyte?” * he cried. “Do you wish to hang your father?” and
+“Are you gone gyte?”[22] he cried. “Do you wish to hang your father?” and
 forgetful of my presence, carried on at him a long time together in the
 Gaelic, the young man answering nothing; only the wife, at the name of
 hanging, throwing her apron over her face and sobbing out louder than
 before.
 
-     * Mad.
+     [22] Mad.
 
 This was all wretched for a stranger like myself to hear and see; and
 I was right glad when Alan returned, looking like himself in his fine
@@ -5063,10 +5099,10 @@ with all that I have said and that you have said, it will look very
 black against the two of us; do ye mark that? Well, follow me out, and
 ye’ll, I’ll see that I’ll have to get a paper out against ye mysel’;
 have to offer a reward for ye; ay, will I! It’s a sore thing to do
-between such near friends; but if I get the dirdum* of this dreadful
+between such near friends; but if I get the dirdum[23] of this dreadful
 accident, I’ll have to fend for myself, man. Do ye see that?”
 
-     * Blame.
+     [23] Blame.
 
 He spoke with a pleading earnestness, taking Alan by the breast of the
 coat.
@@ -5145,10 +5181,10 @@ I stood abashed.
 
 “Hoot, hoot,” said Alan, looking mighty silly. “The day comes unco soon
 in this month of July; and to-morrow there’ll be a fine to-do in Appin,
-a fine riding of dragoons, and crying of ‘Cruachan!’ * and running of
+a fine riding of dragoons, and crying of ‘Cruachan!’[24] and running of
 red-coats; and it behoves you and me to the sooner be gone.”
 
-     * The rallying-word of the Campbells.
+     [24] The rallying-word of the Campbells.
 
 Thereupon we said farewell, and set out again, bending somewhat
 eastwards, in a fine mild dark night, and over much the same broken
@@ -5160,6 +5196,7 @@ country as before.
 CHAPTER XX
 
 THE FLIGHT IN THE HEATHER: THE ROCKS
+
 
 Sometimes we walked, sometimes ran; and as it drew on to morning, walked
 ever the less and ran the more. Though, upon its face, that country
@@ -5263,9 +5300,9 @@ but some eagles screaming round a cliff.
 Then at last Alan smiled.
 
 “Ay” said he, “now we have a chance;” and then looking at me with some
-amusement, “Ye’re no very gleg* at the jumping,” said he.
+amusement, “Ye’re no very gleg[25] at the jumping,” said he.
 
-     * Brisk.
+     [25] Brisk.
 
 At this I suppose I coloured with mortification, for he added at once,
 “Hoots! small blame to ye! To be feared of a thing and yet to do it, is
@@ -5484,6 +5521,7 @@ CHAPTER XXI
 
 THE FLIGHT IN THE HEATHER: THE HEUGH OF CORRYNAKIEGH
 
+
 Early as day comes in the beginning of July, it was still dark when we
 reached our destination, a cleft in the head of a great mountain, with a
 water running through the midst, and upon the one hand a shallow cave
@@ -5569,34 +5607,34 @@ hands as lightly as I would trust another with my glove.”
 folk everywhere, and what’s far worse, weak ones. So when it comes dark
 again, I will steal down into that clachan, and set this that I have
 been making in the window of a good friend of mine, John Breck Maccoll,
-a bouman* of Appin’s.”
+a bouman[26] of Appin’s.”
 
-     *A bouman is a tenant who takes stock from the landlord and
+     [26] A bouman is a tenant who takes stock from the landlord and
      shares with him the increase.
 
 “With all my heart,” says I; “and if he finds it, what is he to think?”
 
 “Well,” says Alan, “I wish he was a man of more penetration, for by my
-troth I am afraid he will make little enough of it! But this is what
-I have in my mind. This cross is something in the nature of the
+troth I am afraid he will make little enough of it! But this is what I
+have in my mind. This cross is something in the nature of the
 crosstarrie, or fiery cross, which is the signal of gathering in our
 clans; yet he will know well enough the clan is not to rise, for there
 it is standing in his window, and no word with it. So he will say to
-himsel’, THE CLAN IS NOT TO RISE, BUT THERE IS SOMETHING. Then he will
-see my button, and that was Duncan Stewart’s. And then he will say to
-himsel’, THE SON OF DUNCAN IS IN THE HEATHER, AND HAS NEED OF ME.”
+himsel’, _The clan is not to rise, but there is something_. Then he
+will see my button, and that was Duncan Stewart’s. And then he will say
+to himsel’, _The son of Duncan is in the heather and has need of me_.”
 
 “Well,” said I, “it may be. But even supposing so, there is a good deal
 of heather between here and the Forth.”
 
-“And that is a very true word,” says Alan. “But then John Breck will see
-the sprig of birch and the sprig of pine; and he will say to himsel’ (if
-he is a man of any penetration at all, which I misdoubt), ALAN WILL BE
-LYING IN A WOOD WHICH IS BOTH OF PINES AND BIRCHES. Then he will think
-to himsel’, THAT IS NOT SO VERY RIFE HEREABOUT; and then he will come
-and give us a look up in Corrynakiegh. And if he does not, David, the
-devil may fly away with him, for what I care; for he will no be worth
-the salt to his porridge.”
+“And that is a very true word,” says Alan. “But then John Breck will
+see the sprig of birch and the sprig of pine; and he will say to
+himsel’ (if he is a man of any penetration at all, which I misdoubt),
+_Alan will be lying in a wood which is both of pines and birches_. Then
+he will think to himsel’, _That is not so very rife hereabout;_ and
+then he will come and give us a look up in Corrynakiegh. And if he does
+not, David, the devil may fly away with him, for what I care; for he
+will no be worth the salt to his porridge.”
 
 “Eh, man,” said I, drolling with him a little, “you’re very ingenious!
 But would it not be simpler for you to write him a few words in black
@@ -5760,6 +5798,7 @@ chattels together) struck into another to resume our flight.
 CHAPTER XXII
 
 THE FLIGHT IN THE HEATHER: THE MOOR
+
 
 Some seven hours’ incessant, hard travelling brought us early in the
 morning to the end of a range of mountains. In front of us there lay a
@@ -5960,11 +5999,11 @@ of crawling like brutes. But, dear heart have mercy! what a pair we must
 have made, going double like old grandfathers, stumbling like babes,
 and as white as dead folk. Never a word passed between us; each set his
 mouth and kept his eyes in front of him, and lifted up his foot and set
-it down again, like people lifting weights at a country play;* all the
+it down again, like people lifting weights at a country play;[27] all the
 while, with the moorfowl crying “peep!” in the heather, and the light
 coming slowly clearer in the east.
 
-     * Village fair.
+     [27] Village fair.
 
 I say Alan did as I did. Not that ever I looked at him, for I had enough
 ado to keep my feet; but because it is plain he must have been as stupid
@@ -6045,6 +6084,7 @@ hollows and into the heart of that dismal mountain of Ben Alder.
 CHAPTER XXIII
 
 CLUNY’S CAGE
+
 
 We came at last to the foot of an exceeding steep wood, which scrambled
 up a craggy hillside, and was crowned by a naked precipice.
@@ -6156,10 +6196,10 @@ luxuries) and bade us draw in to our meal.
 
 “They,” said he, meaning the collops, “are such as I gave his Royal
 Highness in this very house; bating the lemon juice, for at that time we
-were glad to get the meat and never fashed for kitchen.* Indeed, there
+were glad to get the meat and never fashed for kitchen.[28] Indeed, there
 were mair dragoons than lemons in my country in the year forty-six.”
 
-     * Condiment.
+     [28] Condiment.
 
 I do not know if the collops were truly very good, but my heart rose
 against the sight of them, and I could eat but little. All the while
@@ -6368,6 +6408,7 @@ here’s my hand along with it!”
 CHAPTER XXIV
 
 THE FLIGHT IN THE HEATHER: THE QUARREL
+
 
 Alan and I were put across Loch Errocht under cloud of night, and went
 down its eastern shore to another hiding-place near the head of Loch
@@ -6651,13 +6692,13 @@ none the worse of washing.”
 “Do you know that you insult me?” said Alan, very low.
 
 “I am sorry for that,” said I, “for I am not done; and if you distaste
-the sermon, I doubt the pirliecue* will please you as little. You have
+the sermon, I doubt the pirliecue[29] will please you as little. You have
 been chased in the field by the grown men of my party; it seems a poor
 kind of pleasure to out-face a boy. Both the Campbells and the Whigs
 have beaten you; you have run before them like a hare. It behoves you to
 speak of them as of your betters.”
 
-     * A second sermon.
+     [29] A second sermon.
 
 Alan stood quite still, the tails of his great-coat clapping behind him
 in the wind.
@@ -6763,6 +6804,7 @@ CHAPTER XXV
 
 IN BALQUHIDDER
 
+
 At the door of the first house we came to, Alan knocked, which was of
 no very safe enterprise in such a part of the Highlands as the Braes of
 Balquhidder. No great clan held rule there; it was filled and disputed
@@ -6828,8 +6870,10 @@ sought upon all sides on a charge of carrying a young woman from
 Balfron and marrying her (as was alleged) by force; yet he stepped about
 Balquhidder like a gentleman in his own walled policy. It was he who had
 shot James Maclaren at the plough stilts, a quarrel never satisfied; yet
-he walked into the house of his blood enemies as a rider* might into a
-     public inn.* Commercial traveller.
+he walked into the house of his blood enemies as a rider[30] might into a
+public inn.
+
+     [30] Commercial traveller.
 
 Duncan had time to pass me word of who it was; and we looked at one
 another in concern. You should understand, it was then close upon the
@@ -6926,10 +6970,10 @@ best. Here will be a braw chance to settle it.”
 
 “Why, sir,” said Alan, still addressing Robin, from whom indeed he had
 not so much as shifted his eyes, nor yet Robin from him, “why, sir,”
- says Alan, “I think I will have heard some sough* of the sort. Have ye
+ says Alan, “I think I will have heard some sough[31] of the sort. Have ye
 music, as folk say? Are ye a bit of a piper?”
 
-     * Rumour.
+     [31] Rumour.
 
 “I can pipe like a Macrimmon!” cries Robin.
 
@@ -7027,6 +7071,7 @@ CHAPTER XXVI
 
 END OF THE FLIGHT: WE PASS THE FORTH
 
+
 The month, as I have said, was not yet out, but it was already far
 through August, and beautiful warm weather, with every sign of an early
 and great harvest, when I was pronounced able for my journey. Our money
@@ -7101,9 +7146,9 @@ farther away.
 
 “She’s bound to be across now,” I whispered.
 
-“Na,” said Alan, “her foot still sounds boss* upon the bridge.”
+“Na,” said Alan, “her foot still sounds boss[32] upon the bridge.”
 
-     * Hollow.
+     [32] Hollow.
 
 And just then--“Who goes?” cried a voice, and we heard the butt of
 a musket rattle on the stones. I must suppose the sentry had been
@@ -7452,6 +7497,7 @@ CHAPTER XXVII
 
 I COME TO MR. RANKEILLOR
 
+
 The next day it was agreed that Alan should fend for himself till
 sunset; but as soon as it began to grow dark, he should lie in the
 fields by the roadside near to Newhalls, and stir for naught until he
@@ -7498,7 +7544,7 @@ gnawing in my inwards, and every now and then a movement of despair.
 It grew to be high day at last, perhaps nine in the forenoon; and I was
 worn with these wanderings, and chanced to have stopped in front of
 a very good house on the landward side, a house with beautiful, clear
-glass windows, flowering knots upon the sills, the walls new-harled* and
+glass windows, flowering knots upon the sills, the walls new-harled[33] and
 a chase-dog sitting yawning on the step like one that was at home. Well,
 I was even envying this dumb brute, when the door fell open and
 there issued forth a shrewd, ruddy, kindly, consequential man in a
@@ -7507,7 +7553,7 @@ eyes on me once, but he looked at me again; and this gentleman, as it
 proved, was so much struck with my poor appearance that he came straight
 up to me and asked me what I did.
 
-     * Newly rough-cast.
+     [33] Newly rough-cast.
 
 I told him I was come to the Queensferry on business, and taking heart
 of grace, asked him to direct me to the house of Mr. Rankeillor.
@@ -7534,18 +7580,19 @@ at me and now upon the causeway of the street.
 
 “Yes,” says he, “that will be the best, no doubt.” And he led me back
 with him into his house, cried out to some one whom I could not see
-that he would be engaged all morning, and brought me into a little dusty
-chamber full of books and documents. Here he sate down, and bade me
-be seated; though I thought he looked a little ruefully from his clean
-chair to my muddy rags. “And now,” says he, “if you have any business,
-pray be brief and come swiftly to the point. Nec gemino bellum Trojanum
-orditur ab ovo--do you understand that?” says he, with a keen look.
+that he would be engaged all morning, and brought me into a little
+dusty chamber full of books and documents. Here he sate down, and bade
+me be seated; though I thought he looked a little ruefully from his
+clean chair to my muddy rags. “And now,” says he, “if you have any
+business, pray be brief and come swiftly to the point. _Nec gemino
+bellum Trojanum orditur ab ovo_--do you understand that?” says he, with
+a keen look.
 
 “I will even do as Horace says, sir,” I answered, smiling, “and carry
-you in medias res.” He nodded as if he was well pleased, and indeed his
-scrap of Latin had been set to test me. For all that, and though I was
-somewhat encouraged, the blood came in my face when I added: “I have
-reason to believe myself some rights on the estate of Shaws.”
+you _in medias res_.” He nodded as if he was well pleased, and indeed
+his scrap of Latin had been set to test me. For all that, and though I
+was somewhat encouraged, the blood came in my face when I added: “I
+have reason to believe myself some rights on the estate of Shaws.”
 
 He got a paper book out of a drawer and set it before him open. “Well?”
  said he.
@@ -7624,32 +7671,33 @@ All this while I had been gaining ground with Mr. Rankeillor, and in
 proportion as I gained ground, gaining confidence. But at this sally,
 which I made with something of a smile myself, he fairly laughed aloud.
 
-“No, no,” said he, “it is not so bad as that. Fui, non sum. I was indeed
-your uncle’s man of business; but while you (imberbis juvenis custode
-remoto) were gallivanting in the west, a good deal of water has run
-under the bridges; and if your ears did not sing, it was not for lack of
-being talked about. On the very day of your sea disaster, Mr. Campbell
-stalked into my office, demanding you from all the winds. I had never
-heard of your existence; but I had known your father; and from matters
-in my competence (to be touched upon hereafter) I was disposed to fear
-the worst. Mr. Ebenezer admitted having seen you; declared (what seemed
-improbable) that he had given you considerable sums; and that you had
-started for the continent of Europe, intending to fulfil your education,
-which was probable and praiseworthy. Interrogated how you had come to
-send no word to Mr. Campbell, he deponed that you had expressed a great
-desire to break with your past life. Further interrogated where you now
-were, protested ignorance, but believed you were in Leyden. That is a
-close sum of his replies. I am not exactly sure that any one believed
-him,” continued Mr. Rankeillor with a smile; “and in particular he so
-much disrelished me expressions of mine that (in a word) he showed me to
-the door. We were then at a full stand; for whatever shrewd suspicions
-we might entertain, we had no shadow of probation. In the very article,
-comes Captain Hoseason with the story of your drowning; whereupon all
-fell through; with no consequences but concern to Mr. Campbell, injury
-to my pocket, and another blot upon your uncle’s character, which could
-very ill afford it. And now, Mr. Balfour,” said he, “you understand
-the whole process of these matters, and can judge for yourself to what
-extent I may be trusted.”
+“No, no,” said he, “it is not so bad as that. _Fui, non sum_. I was
+indeed your uncle’s man of business; but while you (_imberbis juvenis
+custode remoto_) were gallivanting in the west, a good deal of water
+has run under the bridges; and if your ears did not sing, it was not
+for lack of being talked about. On the very day of your sea disaster,
+Mr. Campbell stalked into my office, demanding you from all the winds.
+I had never heard of your existence; but I had known your father; and
+from matters in my competence (to be touched upon hereafter) I was
+disposed to fear the worst. Mr. Ebenezer admitted having seen you;
+declared (what seemed improbable) that he had given you considerable
+sums; and that you had started for the continent of Europe, intending
+to fulfil your education, which was probable and praiseworthy.
+Interrogated how you had come to send no word to Mr. Campbell, he
+deponed that you had expressed a great desire to break with your past
+life. Further interrogated where you now were, protested ignorance, but
+believed you were in Leyden. That is a close sum of his replies. I am
+not exactly sure that any one believed him,” continued Mr. Rankeillor
+with a smile; “and in particular he so much disrelished me expressions
+of mine that (in a word) he showed me to the door. We were then at a
+full stand; for whatever shrewd suspicions we might entertain, we had
+no shadow of probation. In the very article, comes Captain Hoseason
+with the story of your drowning; whereupon all fell through; with no
+consequences but concern to Mr. Campbell, injury to my pocket, and
+another blot upon your uncle’s character, which could very ill afford
+it. And now, Mr. Balfour,” said he, “you understand the whole process
+of these matters, and can judge for yourself to what extent I may be
+trusted.”
 
 Indeed he was more pedantic than I can represent him, and placed more
 scraps of Latin in his speech; but it was all uttered with a fine
@@ -7707,20 +7755,20 @@ either.
 “Well, well,” said the lawyer, when I had quite done, “this is a great
 epic, a great Odyssey of yours. You must tell it, sir, in a sound
 Latinity when your scholarship is riper; or in English if you please,
-though for my part I prefer the stronger tongue. You have rolled
-much; quae regio in terris--what parish in Scotland (to make a homely
+though for my part I prefer the stronger tongue. You have rolled much;
+_quæ regio in terris_--what parish in Scotland (to make a homely
 translation) has not been filled with your wanderings? You have shown,
-besides, a singular aptitude for getting into false positions; and, yes,
-upon the whole, for behaving well in them. This Mr. Thomson seems to
-me a gentleman of some choice qualities, though perhaps a trifle
+besides, a singular aptitude for getting into false positions; and,
+yes, upon the whole, for behaving well in them. This Mr. Thomson seems
+to me a gentleman of some choice qualities, though perhaps a trifle
 bloody-minded. It would please me none the worse, if (with all his
 merits) he were soused in the North Sea, for the man, Mr. David, is a
 sore embarrassment. But you are doubtless quite right to adhere to him;
-indubitably, he adhered to you. It comes--we may say--he was your true
-companion; nor less paribus curis vestigia figit, for I dare say you
-would both take an orra thought upon the gallows. Well, well, these days
-are fortunately by; and I think (speaking humanly) that you are near
-the end of your troubles.”
+indubitably, he adhered to you. _It comes_--we may say--he was your
+true companion; nor less _paribus curis vestigia figit_, for I dare say
+you would both take an orra thought upon the gallows. Well, well, these
+days are fortunately by; and I think (speaking humanly) that you are
+near the end of your troubles.”
 
 As he thus moralised on my adventures, he looked upon me with so much
 humour and benignity that I could scarce contain my satisfaction. I had
@@ -7742,7 +7790,8 @@ CHAPTER XXVIII
 
 I GO IN QUEST OF MY INHERITANCE
 
-I made what change I could in my appearance; and blithe was I to look in
+
+Having made what change I could in my appearance; and blithe was I to look in
 the glass and find the beggarman a thing of the past, and David Balfour
 come to life again. And yet I was ashamed of the change too, and, above
 all, of the borrowed clothes. When I had done, Mr. Rankeillor caught
@@ -7763,8 +7812,8 @@ hinges on a love affair.”
 gallant air; people stood in their doors to look after him, as he
 went by upon a mettle horse. I have seen it with these eyes, and I
 ingenuously confess, not altogether without envy; for I was a plain lad
-myself and a plain man’s son; and in those days it was a case of Odi te,
-qui bellus es, Sabelle.”
+myself and a plain man’s son; and in those days it was a case of _Odi
+te, qui bellus es, Sabelle_.”
 
 “It sounds like a dream,” said I.
 
@@ -7772,45 +7821,47 @@ qui bellus es, Sabelle.”
 was that all, but he had a spirit of his own that seemed to promise
 great things in the future. In 1715, what must he do but run away to
 join the rebels? It was your father that pursued him, found him in a
-ditch, and brought him back multum gementem; to the mirth of the whole
-country. However, majora canamus--the two lads fell in love, and that
-with the same lady. Mr. Ebenezer, who was the admired and the beloved,
-and the spoiled one, made, no doubt, mighty certain of the victory;
-and when he found he had deceived himself, screamed like a peacock.
-The whole country heard of it; now he lay sick at home, with his silly
-family standing round the bed in tears; now he rode from public-house
-to public-house, and shouted his sorrows into the lug of Tom, Dick, and
-Harry. Your father, Mr. David, was a kind gentleman; but he was weak,
-dolefully weak; took all this folly with a long countenance; and one
-day--by your leave!--resigned the lady. She was no such fool, however;
-it’s from her you must inherit your excellent good sense; and she
-refused to be bandied from one to another. Both got upon their knees
-to her; and the upshot of the matter for that while was that she showed
-both of them the door. That was in August; dear me! the same year I came
-from college. The scene must have been highly farcical.”
+ditch, and brought him back _multum gementem;_ to the mirth of the
+whole country. However, _majora canamus_--the two lads fell in love,
+and that with the same lady. Mr. Ebenezer, who was the admired and the
+beloved, and the spoiled one, made, no doubt, mighty certain of the
+victory; and when he found he had deceived himself, screamed like a
+peacock. The whole country heard of it; now he lay sick at home, with
+his silly family standing round the bed in tears; now he rode from
+public-house to public-house, and shouted his sorrows into the lug of
+Tom, Dick, and Harry. Your father, Mr. David, was a kind gentleman; but
+he was weak, dolefully weak; took all this folly with a long
+countenance; and one day--by your leave!--resigned the lady. She was no
+such fool, however; it’s from her you must inherit your excellent good
+sense; and she refused to be bandied from one to another. Both got upon
+their knees to her; and the upshot of the matter for that while was
+that she showed both of them the door. That was in August; dear me! the
+same year I came from college. The scene must have been highly
+farcical.”
 
 I thought myself it was a silly business, but I could not forget my
 father had a hand in it. “Surely, sir, it had some note of tragedy,”
  said I.
 
 “Why, no, sir, not at all,” returned the lawyer. “For tragedy implies
-some ponderable matter in dispute, some dignus vindice nodus; and this
-piece of work was all about the petulance of a young ass that had been
-spoiled, and wanted nothing so much as to be tied up and soundly belted.
-However, that was not your father’s view; and the end of it was, that
-from concession to concession on your father’s part, and from one height
-to another of squalling, sentimental selfishness upon your uncle’s, they
-came at last to drive a sort of bargain, from whose ill results you have
-recently been smarting. The one man took the lady, the other the estate.
-Now, Mr. David, they talk a great deal of charity and generosity; but in
-this disputable state of life, I often think the happiest consequences
-seem to flow when a gentleman consults his lawyer, and takes all the law
-allows him. Anyhow, this piece of Quixotry on your father’s part, as
-it was unjust in itself, has brought forth a monstrous family of
-injustices. Your father and mother lived and died poor folk; you were
-poorly reared; and in the meanwhile, what a time it has been for the
-tenants on the estate of Shaws! And I might add (if it was a matter I
-cared much about) what a time for Mr. Ebenezer!”
+some ponderable matter in dispute, some _dignus vindice nodus;_ and
+this piece of work was all about the petulance of a young ass that had
+been spoiled, and wanted nothing so much as to be tied up and soundly
+belted. However, that was not your father’s view; and the end of it
+was, that from concession to concession on your father’s part, and from
+one height to another of squalling, sentimental selfishness upon your
+uncle’s, they came at last to drive a sort of bargain, from whose ill
+results you have recently been smarting. The one man took the lady, the
+other the estate. Now, Mr. David, they talk a great deal of charity and
+generosity; but in this disputable state of life, I often think the
+happiest consequences seem to flow when a gentleman consults his
+lawyer, and takes all the law allows him. Anyhow, this piece of
+Quixotry on your father’s part, as it was unjust in itself, has brought
+forth a monstrous family of injustices. Your father and mother lived
+and died poor folk; you were poorly reared; and in the meanwhile, what
+a time it has been for the tenants on the estate of Shaws! And I might
+add (if it was a matter I cared much about) what a time for Mr.
+Ebenezer!”
 
 “And yet that is certainly the strangest part of all,” said I, “that a
 man’s nature should thus change.”
@@ -7848,9 +7899,9 @@ of that scheme on which we afterwards acted.
 “The great affair,” I asked, “is to bring home to him the kidnapping?”
 
 “Surely,” said Mr. Rankeillor, “and if possible, out of court. For mark
-you here, Mr. David: we could no doubt find some men of the Covenant who
-would swear to your reclusion; but once they were in the box, we could
-no longer check their testimony, and some word of your friend Mr.
+you here, Mr. David: we could no doubt find some men of the _Covenant_
+who would swear to your reclusion; but once they were in the box, we
+could no longer check their testimony, and some word of your friend Mr.
 Thomson must certainly crop out. Which (from what you have let fall) I
 cannot think to be desirable.”
 
@@ -8007,6 +8058,7 @@ CHAPTER XXIX
 
 I COME INTO MY KINGDOM
 
+
 For some time Alan volleyed upon the door, and his knocking only roused
 the echoes of the house and neighbourhood. At last, however, I could
 hear the noise of a window gently thrust up, and knew that my uncle
@@ -8017,10 +8069,10 @@ honest man in his own house. For all that, he studied his visitor awhile
 in silence, and when he spoke his voice had a quaver of misgiving.
 
 “What’s this?” says he. “This is nae kind of time of night for decent
-folk; and I hae nae trokings* wi’ night-hawks. What brings ye here? I
+folk; and I hae nae trokings[34] wi’ night-hawks. What brings ye here? I
 have a blunderbush.”
 
-     * Dealings.
+     [34] Dealings.
 
 “Is that yoursel’, Mr. Balfour?” returned Alan, stepping back and
 looking up into the darkness. “Have a care of that blunderbuss; they’re
@@ -8169,10 +8221,10 @@ please.”
 “The dearer?” cries Ebenezer. “Would ye fyle your hands wi’ crime?”
 
 “Hoot!” said Alan, “they’re baith crime, whatever! And the killing’s
-easier, and quicker, and surer. Keeping the lad’ll be a fashious* job, a
+easier, and quicker, and surer. Keeping the lad’ll be a fashious[35] job, a
 fashious, kittle business.”
 
-     * Troublesome.
+     [35] Troublesome.
 
 “I’ll have him keepit, though,” returned my uncle. “I never had naething
 to do with onything morally wrong; and I’m no gaun to begin to pleasure
@@ -8288,6 +8340,7 @@ CHAPTER XXX
 
 GOOD-BYE
 
+
 So far as I was concerned myself, I had come to port; but I had still
 Alan, to whom I was so much beholden, on my hands; and I felt besides a
 heavy charge in the matter of the murder and James of the Glens. On both
@@ -8303,18 +8356,18 @@ of a different mind.
 
 “Mr. Thomson,” says he, “is one thing, Mr. Thomson’s kinsman quite
 another. I know little of the facts, but I gather that a great noble
-(whom we will call, if you like, the D. of A.)* has some concern and
+(whom we will call, if you like, the D. of A.)[36] has some concern and
 is even supposed to feel some animosity in the matter. The D. of A. is
-doubtless an excellent nobleman; but, Mr. David, timeo qui nocuere deos.
-If you interfere to balk his vengeance, you should remember there is
-one way to shut your testimony out; and that is to put you in the dock.
-There, you would be in the same pickle as Mr. Thomson’s kinsman. You
-will object that you are innocent; well, but so is he. And to be tried
-for your life before a Highland jury, on a Highland quarrel and with
-a Highland Judge upon the bench, would be a brief transition to the
-gallows.”
+doubtless an excellent nobleman; but, Mr. David, _timeo qui nocuere
+deos_. If you interfere to balk his vengeance, you should remember
+there is one way to shut your testimony out; and that is to put you in
+the dock. There, you would be in the same pickle as Mr. Thomson’s
+kinsman. You will object that you are innocent; well, but so is he. And
+to be tried for your life before a Highland jury, on a Highland quarrel
+and with a Highland Judge upon the bench, would be a brief transition
+to the gallows.”
 
-     * The Duke of Argyle.
+     [36] The Duke of Argyle.
 
 Now I had made all these reasonings before and found no very good reply
 to them; so I put on all the simplicity I could. “In that case, sir,”
